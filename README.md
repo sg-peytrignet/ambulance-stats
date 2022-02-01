@@ -1,0 +1,2 @@
+# ambulance-stats
+Didactic page
